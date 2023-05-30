@@ -1,0 +1,11 @@
+C:\c#\PatosMexico\bin\Debug\netcoreapp2.1\PatosMexico.deps.json
+C:\c#\PatosMexico\bin\Debug\netcoreapp2.1\PatosMexico.runtimeconfig.json
+C:\c#\PatosMexico\bin\Debug\netcoreapp2.1\PatosMexico.runtimeconfig.dev.json
+C:\c#\PatosMexico\bin\Debug\netcoreapp2.1\PatosMexico.dll
+C:\c#\PatosMexico\bin\Debug\netcoreapp2.1\PatosMexico.pdb
+C:\c#\PatosMexico\obj\Debug\netcoreapp2.1\PatosMexico.csproj.AssemblyReference.cache
+C:\c#\PatosMexico\obj\Debug\netcoreapp2.1\PatosMexico.csproj.CoreCompileInputs.cache
+C:\c#\PatosMexico\obj\Debug\netcoreapp2.1\PatosMexico.AssemblyInfoInputs.cache
+C:\c#\PatosMexico\obj\Debug\netcoreapp2.1\PatosMexico.AssemblyInfo.cs
+C:\c#\PatosMexico\obj\Debug\netcoreapp2.1\PatosMexico.dll
+C:\c#\PatosMexico\obj\Debug\netcoreapp2.1\PatosMexico.pdb
